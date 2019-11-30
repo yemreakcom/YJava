@@ -10,6 +10,8 @@ description: Java ile örnek çalışmalar
 
 ## 🧰 JavaFX Çalışmalarım
 
+![](.gitbook/assets/image%20%2814%29.png)
+
 {% embed url="https://github.com/yedhrab/YToolsFX" %}
 
 ## 📱 Android Çalışmaları
