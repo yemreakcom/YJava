@@ -8,7 +8,7 @@ description: Java kodlarını derleyebileceğimiz bir IDE
 
 İlk olarak bilgisayarımızda _Java JDK_'nin yüklü olması gerektiğinden [buraya](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) tıklayarak indirme bağlantısına gitmelisin ve uygun _JDK_'yı indirmelisin.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ## ⏬ NetBeans İndirilmesi
 
@@ -27,7 +27,7 @@ Aydınlık temalar benlik değil diye düşünüyorsan, hiç merak etme _NetBean
 
 #### 🔨 Resimlerle Tema ve Font Ayarlama
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ## 🚀 İlk Projeyi Oluşturma
 
@@ -35,5 +35,5 @@ Sırasıyla: `File` -&gt; `New Project` -&gt; `Java Application` -&gt; `Next` -&
 
 ### 🎴 Resimler ile Proje Oluşturma Anlatımı
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
