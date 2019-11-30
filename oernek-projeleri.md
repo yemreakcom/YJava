@@ -14,6 +14,10 @@ description: Java ile örnek çalışmalar
 
 {% embed url="https://github.com/yedhrab/YToolsFX" %}
 
+{% hint style="warning" %}
+📢 Artık geliştirilmemektedir
+{% endhint %}
+
 ## 📱 Android Çalışmaları
 
 {% embed url="https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon&hl=tr" %}
