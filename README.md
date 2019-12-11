@@ -2,7 +2,7 @@
 description: Java programlama dili notlarım
 ---
 
-# ☕ YJava
+# ☕ Java Notlarım
 
 ## 🙋‍♂️ Hoş Geldin
 
