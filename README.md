@@ -1,5 +1,5 @@
 ---
-description: Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın java ve java ile programlama notları
+description: Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın java ve java programlama notları
 ---
 
 # ☕ Java Notlarım
