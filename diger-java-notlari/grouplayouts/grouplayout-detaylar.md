@@ -6,7 +6,7 @@ description: GroupLayout'u daha iyi anlamak isteyenler için
 
 ## 🥅 Karmaşık Bir Örnek
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 ### ⏩ Yatay Olarak İncelersek \(Kırmızı Çizgiler\)
 
@@ -36,7 +36,7 @@ gl.setVerticalGroup(
 
 ### 🚀 Sonuç Resmi
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 ## ⭐ Hızlı Örnekler
 

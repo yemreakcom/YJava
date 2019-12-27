@@ -35,5 +35,5 @@ Sırasıyla: `File` -&gt; `New Project` -&gt; `Java Application` -&gt; `Next` -&
 
 ### 🎴 Resimler ile Proje Oluşturma Anlatımı
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 

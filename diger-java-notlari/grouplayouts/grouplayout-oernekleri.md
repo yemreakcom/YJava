@@ -4,7 +4,7 @@
 
 Alt taraftaki gibi bir çıktı almak istediğimiz zaman, adım adım yatay ve dikey olarak inceleme yapmamız gerekmekte; \(gl = GroupLayout, b1 = buton1, b2 = buton2
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 ### ⏩ Yatay Olarak İncelersek
 
@@ -34,13 +34,13 @@ gl.setVerticalGroup(
 
 ### ⭐ Detaylı Resim İle Açıklama
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 ## 🪁 Biraz Daha Zor Bir Örnek
 
 Alt taraftaki gibi bir çıktı almak istediğimiz zaman, adım adım yatay ve dikey olarak inceleme yapmamız gerekmekte; \(gl = GroupLayout, b1 = buton1, b2 = buton2\)
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 ### ⏩ Yatay Olarak İncelersek
 
