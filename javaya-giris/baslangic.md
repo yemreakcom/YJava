@@ -54,7 +54,7 @@ Tabiki var, her yer java kaynağı ile dolu. Senin için aklımda olanları bura
 * **Head First Java** kitabı
 
 {% hint style="info" %}
- Yukarıdaki kanallar her ne kadar **Eclipse** kullanılarak yapılmış olsalar da, **IntelliJ** veya **NetBeans** ile bu videoları takip ederek java öğrenebilirsin, zorluk yaşamazsın.
+Yukarıdaki kanallar her ne kadar **Eclipse** kullanılarak yapılmış olsalar da, **IntelliJ** veya **NetBeans** ile bu videoları takip ederek java öğrenebilirsin, zorluk yaşamazsın.
 {% endhint %}
 
 ## 🎇 Güncel Java Kurulumları
