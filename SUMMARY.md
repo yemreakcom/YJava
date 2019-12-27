@@ -2,7 +2,6 @@
 
 * [☕ Java Notlarım](README.md)
 * [🔰 Java'ya Giriş](javaya-giris/README.md)
-  * [📝 JavaDoc](javaya-giris/javadoc.md)
   * [👶 Başlangıç](javaya-giris/baslangic.md)
   * [⏬ NetBeans Kurulumu](javaya-giris/netbeans-kurulumu.md)
   * [👩‍💻 Javada İlk Program](javaya-giris/javada-ilk-program.md)
@@ -16,6 +15,7 @@
   * [📁 Dosya İşlemleri](java-temelleri/dosya-islemleri.md)
   * [🤯 İleri Seviye](java-temelleri/ileri-seviye.md)
   * [🔗 Harici Bağlantılar](java-temelleri/harici-baglantilar.md)
+* [📝 JavaDoc](javadoc.md)
 * [🌆 JavaFX](javafx/README.md)
   * [🏃‍♂️ Hızlı Notlar](javafx/hizli-notlar.md)
   * [👨‍💻 Kod Notları](javafx/kod-notlari.md)
