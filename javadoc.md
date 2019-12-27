@@ -14,7 +14,7 @@ description: 'Java kod dokümanları, yorum satırları ve kod açıklamaları'
 
 ## 👀 Popup Ekrana Bakış
 
-![](.gitbook/assets/ezgif-1-72be658495e1.gif)
+![](.gitbook/assets/javadoc-prewiev.gif)
 
 ## 🧱 Temel Anahtarlar
 
