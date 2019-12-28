@@ -1,7 +1,6 @@
 # Table of contents
 
 * [☕ Java Notlarım](README.md)
-* [🌟 Faydalı Kaynaklar](https://learn.yemreak.com/java)
 * [🔰 Java'ya Giriş](javaya-giris/README.md)
   * [👶 Başlangıç](javaya-giris/baslangic.md)
   * [⏬ NetBeans Kurulumu](javaya-giris/netbeans-kurulumu.md)
@@ -29,6 +28,11 @@
     * [🤯 GroupLayout Detaylar](diger-java-notlari/grouplayouts/grouplayout-detaylar.md)
   * [💠 GUI Component Metotları](diger-java-notlari/gui-component-metotlari.md)
 * [⭐ Örnek Projeleri](oernek-projeleri.md)
+
+## Faydalı Kaynaklar
+
+* [👨‍🏫 Öğrenme Yolları](https://learn.yemreak.com/java)
+* [📋 Tüm Yabancı Kaynaklar](faydali-kaynaklar/tuem-yabanci-kaynaklar.md)
 
 ## Derlenmiş Çalışmalarım
 
