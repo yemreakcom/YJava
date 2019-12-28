@@ -1,5 +1,7 @@
 ---
-description: 'Java framework, paket ve yazılımları hakkında tüm yabancı kaynaklar'
+description: >-
+  Java framework, paket ve yazılımları hakkında tüm yabancı kaynaklar (awesome
+  java)
 ---
 
 # 📋 Tüm Yabancı Kaynaklar
