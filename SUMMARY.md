@@ -13,6 +13,7 @@
   * [💠 Method ve Classlar](java-temelleri/method-ve-classlar.md)
   * [💠 Scanner Metotları](java-temelleri/scanner-metotlari.md)
   * [📁 Dosya İşlemleri](java-temelleri/dosya-islemleri.md)
+  * [⭐ Enum](java-temelleri/enum.md)
   * [🤯 İleri Seviye](java-temelleri/ileri-seviye.md)
   * [🔗 Harici Bağlantılar](java-temelleri/harici-baglantilar.md)
 * [📝 JavaDoc](javadoc.md)
