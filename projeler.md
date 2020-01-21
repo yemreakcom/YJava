@@ -2,7 +2,7 @@
 description: Java ile örnek çalışmalar
 ---
 
-# ⭐ Örnek Projeleri
+# ⭐ Projeler
 
 ## 🚀 Kişisel Çalışmalarım
 

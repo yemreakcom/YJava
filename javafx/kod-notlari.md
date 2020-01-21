@@ -2,7 +2,7 @@
 description: JavaFx snippets ve kod notları
 ---
 
-# 👨‍💻 Kod Notları
+# 👨‍💻 Kod Notları  \| JavaFX
 
 ## 🎨 Kod Tarafında CSS Değiştirme
 
