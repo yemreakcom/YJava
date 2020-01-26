@@ -97,8 +97,6 @@ NewsAPIOptions options = NewsAPIOptions.Builder()
 
 ### 👨‍💻 Kod Değişikliği
 
-## 
-
 ```java
 public class NewsAPIOptions {
 
