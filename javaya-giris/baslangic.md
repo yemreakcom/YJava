@@ -63,3 +63,7 @@ Yukarıdaki kanallar her ne kadar **Eclipse** kullanılarak yapılmış olsalar 
 * Java programları yazmak için [Oracle Java JDK 12](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html)
 * [AI ile Java Snippets](https://www.codota.com/?utm_source=search-web)
 
+{% hint style="warning" %}
+📢 Oracle'a giriş yapmadan indirmek için [buraya](https://gist.github.com/wavezhang/ba8425f24a968ec9b2a8619d7c2d86a6#gistcomment-3154732) tıklayın
+{% endhint %}
+
