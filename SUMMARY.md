@@ -1,6 +1,7 @@
 # Table of contents
 
 * [☕ Java Notlarım](README.md)
+* [👀 Neler Değişti](CHANGELOG.md)
 * [🔰 Java'ya Giriş](javaya-giris/README.md)
   * [👶 Başlangıç](javaya-giris/baslangic.md)
   * [⏬ NetBeans Kurulumu](javaya-giris/netbeans-kurulumu.md)
