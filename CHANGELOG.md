@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 15/02/2020 - 17:59:32 - [👨‍🔧 Ufak düzeltmeler yapıldı](https://github.com/YEmreAk/YJava/commit/035b669446f3c24b45abd4869143fd0a12e8b10c?diff=split) ~ Yunus Emre
 - 15/02/2020 - 17:54:28 - [✨](https://github.com/YEmreAk/YJava/commit/b255f318eb400edc45d8352f153ee5d3356f185e?diff=split) ~ Yunus Emre
 - 10/02/2020 - 19:03:29 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YJava/commit/bc61344a75eb4f5e2191b2890d09075261692787?diff=split) ~ Yunus Emre
 - 26/01/2020 - 11:27:40 - [GitBook: [master] one page modified](https://github.com/YEmreAk/YJava/commit/1d42f295770df520aab8b890ac747f341f346144?diff=split) ~ Yunus Emre
