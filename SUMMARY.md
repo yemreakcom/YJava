@@ -1,7 +1,7 @@
 # Table of contents
 
 * [☕ Java Notlarım](README.md)
-* [👀 Neler Değişti](CHANGELOG.md)
+* [👀 Neler Değişti](changelog.md)
 * [🔰 Java'ya Giriş](javaya-giris/README.md)
   * [👶 Başlangıç](javaya-giris/baslangic.md)
   * [⏬ NetBeans Kurulumu](javaya-giris/netbeans-kurulumu.md)
@@ -26,6 +26,8 @@
   * [🌃 GUI Tasarımı \| JavaFX](javafx/gui-tasarimi.md)
   * [⭐ JavaFX Uygulamam](https://github.com/yedhrab/YToolsFX)
 * [⛺ Diğer Notlar](diger/README.md)
+  * [🕸 Ağ Programlama](diger/ag-programlama.md)
+  * [⭐ Swing](diger/swing.md)
   * [🚧 GroupLayouts](diger/grouplayouts/README.md)
     * [🔰 GroupLayout'u Tanıyalım](diger/grouplayouts/grouplayoutu-taniyalim.md)
     * [⭐ GroupLayout Örnekleri](diger/grouplayouts/grouplayout-oernekleri.md)
@@ -60,3 +62,4 @@
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
 * [📕 Türkçe Git Kitabı](https://www.yemreak.com/book-git/)
+
