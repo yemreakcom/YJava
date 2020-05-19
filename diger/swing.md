@@ -8,6 +8,8 @@
 * 👨‍🔧 IDE form yönetimi yapılan GUI Designer üzerinden `JPanel`'i seçip, `LayoutMananger` değerini değiştirin \(resimdeki gibi\)
 * 💁‍♂️ Veya kod ile `contentPane.setLayout(new CardLayout());` değiştirebilirsiniz
 
+> 📢 İşlemleri yaptıktan sonra paneli`panel.revalidate();` kodu ile güncellemeyi unutmayın
+
 ![](../.gitbook/assets/intellij_gui_designer_layout_manager.png)
 
 {% hint style="info" %}
