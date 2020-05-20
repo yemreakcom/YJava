@@ -27,7 +27,7 @@
   * [⭐ JavaFX Uygulamam](https://github.com/yedhrab/YToolsFX)
 * [⛺ Diğer Notlar](diger/README.md)
   * [🕸 Ağ Programlama](diger/ag-programlama.md)
-  * [⭐ Swing](diger/swing.md)
+  * [⭐ Swing ile GUI Programlama](diger/swing.md)
   * [🚧 GroupLayouts](diger/grouplayouts/README.md)
     * [🔰 GroupLayout'u Tanıyalım](diger/grouplayouts/grouplayoutu-taniyalim.md)
     * [⭐ GroupLayout Örnekleri](diger/grouplayouts/grouplayout-oernekleri.md)

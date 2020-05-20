@@ -1,4 +1,4 @@
-# ⭐ Swing
+# ⭐ Swing ile GUI Programlama
 
 ## 🐞 Hata Notları
 
