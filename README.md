@@ -2,7 +2,7 @@
 description: Yunus Emre Ak ~ YEmreAk (@yedhrab) 'ın java ve java programlama notları
 ---
 
-# ☕ Java Notlarım
+# ☕ Java
 
 ## 🙋‍♂️ Hoş Geldin
 
