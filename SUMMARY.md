@@ -1,7 +1,7 @@
-# Table of contents
+# 📋 Tüm İçerikler
 
 * [☕ Java Notlarım](README.md)
-* [👀 Neler Değişti](changelog.md)
+* [👀 Neler Değişti](https://github.com/YEmreAk/YJava/blob/master/CHANGELOG.md)
 * [🔰 Java'ya Giriş](javaya-giris/README.md)
   * [👶 Başlangıç](javaya-giris/baslangic.md)
   * [⏬ NetBeans Kurulumu](javaya-giris/netbeans-kurulumu.md)
@@ -62,4 +62,3 @@
 * [🔥 Firebase ve React Projem](https://github.com/yedhrab/YReact-Firebase)
 * [👨‍💻 Kişisel Scriptlerim](https://github.com/YEmreAk/YScripts)
 * [📕 Türkçe Git Kitabı](https://www.yemreak.com/book-git/)
-
